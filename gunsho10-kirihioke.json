@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kirihioke",
  "yomi": "きりひおけ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "鎌倉後期以後",
+  "author": "藤原定家に仮託",
+  "desc": "定家の名を借りた歌論書。先人の言い置いたことを書き留めたと記し、万葉・古今の詞の用い方、誹諧歌の解釈などを説く。「鵜鷺」系の歌論書と関わりが深い。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -146,6 +151,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
